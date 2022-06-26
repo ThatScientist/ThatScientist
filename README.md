@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThatScientist
-- 👀 I’m interested in Web development languages;
+- 👀 I’m interested in Web development, Automation and Data Analisys;
 - 🌱 I’m currently struggling Python, JavaScript, html, css3;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
