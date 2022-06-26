@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatScientist
 - 👀 I’m interested in Web development languages;
-- 🌱 I’m currently JavaScript, html, css3;
+- 🌱 I’m currently struggling Python, JavaScript, html, css3;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
